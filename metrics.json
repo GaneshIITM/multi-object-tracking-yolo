@@ -1,0 +1,10 @@
+{
+    "total_frames_processed": 109,
+    "total_unique_objects_tracked": 14,
+    "average_detections_per_frame": 5.522935779816514,
+    "average_processing_time_per_frame_sec": 0.3289279959617405,
+    "effective_processing_fps": 3.040179043064233,
+    "output_video_basic": "tracked_output.mp4",
+    "output_video_with_trajectories": "tracked_with_trajectories.mp4",
+    "screenshots_folder": "screenshots"
+}
